@@ -2,21 +2,18 @@
 
 <table>
 <tr>
-<td width="290" valign="top" align="center">
-<br>
-<img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk.dev/main/Images/logo-nerdypunk.webp" alt="Nerdy Punk" width="240">
+<td width="290" valign="middle" align="center">
+<img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk.dev/main/Images/logo-nerdypunk.webp" alt="Nerdy Punk" width="260">
 <br><br>
 <samp>起動 // WHATSUP, GREAT TO HAVE YOU HERE</samp>
-<br><br>
-<a href="https://twitter.com/NerdyPunkDev"><img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk/main/btn-twitter.png" alt="twitter" width="118"></a><a href="https://www.nerdypunk.dev"><img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk/main/btn-website.png" alt="website" width="118"></a><br>
-<a href="https://store.steampowered.com/app/2354580/Spaceman_Memories/"><img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk/main/btn-steam.png" alt="steam" width="118"></a><a href="https://discord.gg/VZpnjtnHSc"><img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk/main/btn-discord.png" alt="discord" width="118"></a><br>
-<a href="https://www.youtube.com/@nerdypunkdev"><img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk/main/btn-youtube.png" alt="youtube" width="118"></a><a href="https://www.twitch.tv/nerdypunkdev"><img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk/main/btn-twitch.png" alt="twitch" width="118"></a><br>
-<a href="https://ko-fi.com/nerdypunkdev"><img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk/main/btn-kofi.png" alt="kofi" width="118"></a><br>
-<a href="https://www.saintmikenode.org"><img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk/main/btn-smn.png" alt="smn" width="244"></a>
-<br><br>
 </td>
 <td valign="top">
 <img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk/main/about.png" alt="About" width="100%">
+<p align="center">
+<a href="https://twitter.com/NerdyPunkDev"><img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk/main/btn-twitter.png" alt="twitter" width="118"></a><a href="https://www.nerdypunk.dev"><img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk/main/btn-website.png" alt="website" width="118"></a><a href="https://store.steampowered.com/app/2354580/Spaceman_Memories/"><img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk/main/btn-steam.png" alt="steam" width="118"></a><a href="https://discord.gg/VZpnjtnHSc"><img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk/main/btn-discord.png" alt="discord" width="118"></a><br>
+<a href="https://www.youtube.com/@nerdypunkdev"><img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk/main/btn-youtube.png" alt="youtube" width="118"></a><a href="https://www.twitch.tv/nerdypunkdev"><img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk/main/btn-twitch.png" alt="twitch" width="118"></a><a href="https://ko-fi.com/nerdypunkdev"><img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk/main/btn-kofi.png" alt="kofi" width="118"></a><br>
+<a href="https://www.saintmikenode.org"><img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk/main/btn-smn.png" alt="smn" width="244"></a>
+</p>
 </td>
 </tr>
 </table>
