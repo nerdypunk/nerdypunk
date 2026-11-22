@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="nerdypunk.dev">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1530"/><stop offset="1" stop-color="#070b18"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#62e6ff" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="148" rx="16" fill="url(#bg)" stroke="#d4ebff" stroke-opacity=".14"/>
+  <rect x="1" y="1" width="1198" height="148" rx="16" fill="url(#grid)"/>
+  <rect x="24" y="22" width="10" height="10" fill="#6af0bd"/>
+  <text x="44" y="32" font-family="'Share Tech Mono','Courier New',monospace" font-size="19" font-weight="700" fill="#eef8ff">nerdypunk.dev</text>
+  <text x="212" y="32" font-family="'Share Tech Mono','Courier New',monospace" font-size="14" fill="#93a6bd">// 電脳通信</text>
+  <g stroke="#d4ebff" stroke-opacity=".5" fill="none" stroke-width="1.4"><rect x="1100" y="18" width="24" height="18" rx="3" stroke-opacity=".25"/><path d="M1106 27h12"/><rect x="1130" y="18" width="24" height="18" rx="3" stroke-opacity=".25"/><rect x="1137" y="23" width="10" height="8"/><rect x="1160" y="18" width="24" height="18" rx="3" stroke-opacity=".25"/><path d="M1167 23l10 8M1177 23l-10 8"/></g>
+  <line x1="1" y1="52" x2="1199" y2="52" stroke="#d4ebff" stroke-opacity=".12"/>
+  <text x="48" y="96" font-family="'Share Tech Mono','Courier New',monospace" font-size="14" letter-spacing="1" fill="#93a6bd">NET:// ADDRESS</text>
+  <rect x="190" y="72" width="962" height="44" fill="#0a0f06" fill-opacity=".55" stroke="#9fb800" stroke-opacity=".75" stroke-width="2"/>
+  <text x="208" y="100" font-family="'Share Tech Mono','Courier New',monospace" font-size="18" fill="#ccff00">https://github.com/nerdypunk</text>
+  <text x="1134" y="99" text-anchor="end" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" letter-spacing="1" fill="#6af0bd">接続 // SECURE</text>
+</svg>
