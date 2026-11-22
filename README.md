@@ -24,12 +24,11 @@ I'm also the founder and creator of **[Saint Mike Node](https://github.com/Saint
 <p align="center"><img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk/main/h-links.svg" alt="LINKS.EXE" width="100%"></p>
 
 <p align="center">
+<a href="https://twitter.com/NerdyPunkDev">TWITTER</a> &nbsp;//&nbsp;
 <a href="https://www.nerdypunk.dev">WEBSITE</a> &nbsp;//&nbsp;
 <a href="https://store.steampowered.com/app/2354580/Spaceman_Memories/">STEAM</a> &nbsp;//&nbsp;
 <a href="https://www.saintmikenode.org">SAINT MIKE NODE</a> &nbsp;//&nbsp;
 <a href="https://discord.gg/VZpnjtnHSc">DISCORD</a> &nbsp;//&nbsp;
-<a href="https://twitter.com/NerdyPunkDev">TWITTER</a> &nbsp;//&nbsp;
-<a href="https://bsky.app/profile/nerdypunk.dev">BLUESKY</a> &nbsp;//&nbsp;
 <a href="https://www.youtube.com/@nerdypunkdev">YOUTUBE</a> &nbsp;//&nbsp;
 <a href="https://www.twitch.tv/nerdypunkdev">TWITCH</a> &nbsp;//&nbsp;
 <a href="https://ko-fi.com/nerdypunkdev">KO-FI</a>
