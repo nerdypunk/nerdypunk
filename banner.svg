@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="NerdyPunkDev">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08071a"/><stop offset="0.6" stop-color="#03050b"/><stop offset="1" stop-color="#050811"/>
+    </linearGradient>
+    <radialGradient id="gp" cx="12%" cy="8%" r="45%"><stop offset="0" stop-color="#ff3bd4" stop-opacity=".30"/><stop offset="1" stop-color="#ff3bd4" stop-opacity="0"/></radialGradient>
+    <radialGradient id="gc" cx="88%" cy="30%" r="45%"><stop offset="0" stop-color="#22d5ff" stop-opacity=".26"/><stop offset="1" stop-color="#22d5ff" stop-opacity="0"/></radialGradient>
+    <linearGradient id="word" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#62e6ff"/><stop offset="1" stop-color="#b9f5ff"/>
+    </linearGradient>
+    <linearGradient id="word2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff9bea"/><stop offset="1" stop-color="#ff3bd4"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#62e6ff" stroke-opacity=".10"/>
+    </pattern>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#000" fill-opacity=".22"/>
+    </pattern>
+    <filter id="glow" x="-20%" y="-40%" width="140%" height="180%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="22" fill="url(#gp)"/>
+  <rect width="1200" height="360" rx="22" fill="url(#gc)"/>
+  <rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+  <!-- window shell -->
+  <rect x="24" y="24" width="1152" height="312" rx="16" fill="#0c1224" fill-opacity=".55" stroke="#d4ebff" stroke-opacity=".14"/>
+  <path d="M24 40a16 16 0 0 1 16-16h1120a16 16 0 0 1 16 16v44H24z" fill="#0d1428" fill-opacity=".9"/>
+  <line x1="24" y1="84" x2="1176" y2="84" stroke="#d4ebff" stroke-opacity=".14"/>
+  <rect x="48" y="49" width="10" height="10" fill="#6af0bd"/>
+  <text x="68" y="59" font-family="'Share Tech Mono','Courier New',monospace" font-size="18" font-weight="700" fill="#eef8ff">nerdypunk.dev</text>
+  <text x="222" y="59" font-family="'Courier New',monospace" font-size="15" fill="#93a6bd">// 電脳通信</text>
+  <g stroke="#d4ebff" stroke-opacity=".5" fill="none" stroke-width="1.5">
+    <rect x="1048" y="46" width="28" height="22" rx="4" stroke-opacity=".25"/><path d="M1056 58h12"/>
+    <rect x="1084" y="46" width="28" height="22" rx="4" stroke-opacity=".25"/><rect x="1093" y="52" width="10" height="10"/>
+    <rect x="1120" y="46" width="28" height="22" rx="4" stroke-opacity=".25"/><path d="M1129 53l10 10M1139 53l-10 10" stroke="#ff6b8a" stroke-opacity=".9"/>
+  </g>
+  <!-- neon wordmark -->
+  <g font-family="'Share Tech Mono','Courier New',monospace" font-weight="700" filter="url(#glow)">
+    <text x="64" y="205" font-size="108" letter-spacing="4" fill="url(#word)">NERDY</text>
+    <text x="468" y="205" font-size="108" letter-spacing="4" fill="url(#word2)">PUNK</text>
+  </g>
+  <text x="68" y="248" font-family="'Courier New',monospace" font-size="18" letter-spacing="3" fill="#ccff00">&gt; solo dev · indie games · random experiments_</text>
+  <text x="68" y="290" font-family="'Courier New',monospace" font-size="14" letter-spacing="2" fill="#93a6bd">ネオ東京 // 独立系ゲーム開発 // TEGUCIGALPA, HONDURAS</text>
+  <!-- right side accents -->
+  <g font-family="'Courier New',monospace" font-size="13" fill="#62e6ff" fill-opacity=".8">
+    <text x="880" y="150">起動完了 // SYSTEM READY</text>
+    <text x="880" y="176" fill="#ff9bea">STEAM APP 2354580</text>
+  </g>
+  <g fill="#ff3bd4">
+    <rect x="880" y="200" width="16" height="4"/><rect x="902" y="200" width="16" height="4" fill-opacity=".7"/><rect x="924" y="200" width="16" height="4" fill-opacity=".45"/><rect x="946" y="200" width="16" height="4" fill-opacity=".25"/>
+  </g>
+  <rect width="1200" height="360" rx="22" fill="url(#scan)"/>
+</svg>
