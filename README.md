@@ -21,10 +21,10 @@
 <p align="center"><img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk/main/h-projects.png" alt="PROJECTS.EXE" width="100%"></p>
 
 <p align="center">
-<a href="https://store.steampowered.com/app/2354580/Spaceman_Memories/"><img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk/main/card-spaceman.png" alt="Spaceman Memories" width="32%"></a>
-<a href="https://copanquest.todosenlaweb.com"><img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk/main/card-copanquest.png" alt="CopánQuest" width="32%"></a>
-<a href="https://github.com/SaintMikeNode/reefquest"><img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk/main/card-reefquest.png" alt="ReefQuest" width="32%"></a>
-<a href="https://pipodojo.com"><img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk/main/card-pipodojo.png" alt="Pipodojo" width="32%"></a>
-<a href="https://nerdypunk.github.io/Honduras-Indie-Game-Showcase/"><img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk/main/card-showcase.png" alt="Honduras Indie Showcase" width="32%"></a>
-<a href="https://github.com/nerdypunk/First-Person-Shooter-Template---RPG-IN-A-BOX"><img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk/main/card-fps.png" alt="FPS Template" width="32%"></a>
+<a href="https://store.steampowered.com/app/2354580/Spaceman_Memories/"><img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk/main/card-spaceman.png" alt="Spaceman Memories" width="49%"></a>
+<a href="https://copanquest.todosenlaweb.com"><img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk/main/card-copanquest.png" alt="CopánQuest" width="49%"></a>
+<a href="https://github.com/SaintMikeNode/reefquest"><img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk/main/card-reefquest.png" alt="ReefQuest" width="49%"></a>
+<a href="https://pipodojo.com"><img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk/main/card-pipodojo.png" alt="Pipodojo" width="49%"></a>
+<a href="https://nerdypunk.github.io/Honduras-Indie-Game-Showcase/"><img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk/main/card-showcase.png" alt="Honduras Indie Showcase" width="49%"></a>
+<a href="https://github.com/nerdypunk/First-Person-Shooter-Template---RPG-IN-A-BOX"><img src="https://raw.githubusercontent.com/nerdypunk/nerdypunk/main/card-fps.png" alt="FPS Template" width="49%"></a>
 </p>
